@@ -7,17 +7,21 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+# Calendar-app
+### Frontend calendar app
 
-# RUN
+## Dev
 
-``` yarn install && yarn dev ```
+1. Install dependens `yarn install`
+2. Clone file `.env.template` and rename to `.env`
+3. Change enviroments variables with real data
+4. Run app in develop mode `yarn dev` 
+
+## 
+## TESTING CONFIGURED
 
 
-# TESTING CONFIGURED
-
-
-# Instalación y configuracion de Jest + React Testing Library
-## En proyectos de React + Vite
+ Instalación y configuracion de Jest + React Testing Library en proyectos de React + Vite
 
 1. Instalaciones:
 ```
