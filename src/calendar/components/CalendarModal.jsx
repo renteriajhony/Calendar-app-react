@@ -53,7 +53,7 @@ export const CalendarModal = () => {
             className='form-control'
             dateFormat='Pp'
             showTimeSelect
-            locale='es'
+            // locale='es'
             timeCaption='Hora'
           />
         </div>
